@@ -1,3 +1,6 @@
 [submodule "YOLOX"]
 	path = YOLOX
 	url = https://github.com/Megvii-BaseDetection/YOLOX.git
+[submodule "motpy"]
+	path = motpy
+	url = https://github.com/wmuron/motpy.git
